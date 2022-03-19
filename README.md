@@ -1,6 +1,6 @@
-# Global-news
-<br>
-<p>It contains most popular global news and a marquee of the most recent headlines</p>
-<br>
-#View It Live
-<a href="github.com/Peculiar-codes/Global-news">Live demo</a>
+# Global News
+
+This project displays most popular Global News with a marquee of most most recent at the bottom.
+
+## View it Live
+[Live demo](github.com/Peculiar-codes/Global-news)
