@@ -74,5 +74,5 @@ for(datum of data["articles"]){
 
 
 window.addEventListener("load",getNews);
-window.beforeload=()=>{load.start()}
+
 
